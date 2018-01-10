@@ -1,4 +1,4 @@
-# example
+# Rebecca's example
 
 [![Build
 Status](https://travis-ci.org/rebeccagj/example.svg?branch=master)](https://travis-ci.org/rebeccagj/example)
